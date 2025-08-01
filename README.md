@@ -29,11 +29,6 @@ CanScan is a deep learning model built using PyTorch that predicts cancer drug *
 
 ## 📦 How to Run
 
-### Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ### Train the model:
 ```bash
 python scripts/train.py
